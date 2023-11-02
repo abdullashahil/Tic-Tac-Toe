@@ -6,8 +6,8 @@
 }
 
 body{
-    font-family: 'Fredoka One';
-    background-color: dodgerblue;
+    font-family:'Fredoka One';
+    background-image:linear-gradient(180deg, dodgerblue, #267ADD);
 }
 
 .box{
