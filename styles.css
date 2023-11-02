@@ -14,10 +14,8 @@ body{
     display: grid;
     height: 380px;
     width: 380px;
-    /* border: 1px solid black; */
     margin-top: 100px;
     margin-left: 614px;
-    /* background-color: rgb(185, 185, 105); */
     grid-template-rows: repeat(3,120px);
     grid-template-columns: repeat(3,120px);
     row-gap: 10px;
